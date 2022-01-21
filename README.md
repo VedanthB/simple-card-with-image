@@ -1,2 +1,2 @@
-# simple-card-with-image
+# birthdates-palindrome
 Created with CodeSandbox
